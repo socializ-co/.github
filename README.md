@@ -37,8 +37,8 @@ Enterprise features are maintained separately.
 
 ## Repositories
 
-- [Socializ Community](https://github.com/socializ/socializ) — open-source application
-- [Documentation](https://github.com/socializ/socializ#readme) — documentation and setup guide
+- [Socializ Community](https://github.com/socializ-co/socializ-core) — open-source application
+- [Documentation](https://github.com/socializ-co/socializ-core#readme) — documentation and setup guide
 
 ## Contributing
 
@@ -48,6 +48,6 @@ See the [contributing guide](https://github.com/socializ/socializ/blob/main/CONT
 
 ## Links
 
-- Website: https://socializ.dev
-- Documentation: https://docs.socializ.dev
-- Discussions: https://github.com/socializ/socializ/discussions
+- Website: https://socializ.co
+- Documentation: https://docs.socializ.co
+- Discussions: https://github.com/socializ-co/socializ-core/discussions
